@@ -1,0 +1,8 @@
+com.project
+com.project.controller
+com.project.dao
+com.project.model
+com.project.util
+com.project.view
+com.project.view.cashier
+com.project.view.manager
